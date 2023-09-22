@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Amin Djawadi and I work as a Software Engineer for Linquip Corporation</h2>
+<h2 align="left">Hi 👋! I'm Amin Djawadi and I work as a Senior Software Engineer for Recharge.</h2>
 
 ###
 
