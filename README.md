@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Amin Djawadi and I work as a Senior Software Engineer for Recharge.</h2>
+<h2 align="left">Hey 👋! I'm Amin Djawadi, a Senior Software Engineer at Recharge. Nice to e-meet you!.</h2>
 
 ###
 
