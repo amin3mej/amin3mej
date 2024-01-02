@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! I'm Amin Djawadi, a Senior Software Engineer at Recharge. Nice to e-meet you!.</h2>
+<h2 align="left">Hey! I'm Amin Djawadi! Nice to meet you! 👋</h2>
 
 ###
 
@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://djawadi.dev/static/favicons/android-chrome-512x512.png"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
