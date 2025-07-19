@@ -34,8 +34,6 @@ I enjoy staying active (gym, swimming, adventure motorcycling), getting creative
 
 # Travel Log
 
-A list of adventures I've had and the ones I'm dreaming about.
-
 ### Dream Destinations
 
 * [ ] The Alps 🇳🇱🇩🇪🇫🇷🇨🇭🇮🇹 - A remote-work trip through the mountains.
