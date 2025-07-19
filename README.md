@@ -1,23 +1,52 @@
-<h2 align="left">Hey! I'm Amin Djawadi! Nice to meet you! 👋</h2>
+# Hey! 👋
 
-###
+I'm Amin, I love coding and all things geek 🤓.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=amin3mej" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=amin3mej" height="150" alt="languages graph"  />
-</div>
+I'm originally from Iran 🇮🇷, lived in Turkey 🇹🇷 for a few years, and I'm now based in the Netherlands 🇳🇱.
 
-###
+I enjoy staying active (gym, swimming, adventure motorcycling), getting creative (cooking and photography), learning (reading, DIY projects) and finding balance by camping in nature.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo"  />
-</div>
+# Motorcycles & Gear
 
-###
+## Bike
+- ~~Honda CG 125~~
+- ~~Bajaj Eliminator 175~~
+- ~~Honda Shadow VT600 Bobber~~
+- KTM 1190 Adventure
+
+## Helmet
+- Shoei Neotec 3
+  - CNS-3 Mirror Visor - Fire Orange
+  - Cardo Packtalk Pro (with Cardo Adapter for SHOEI Gen 3 Helmets)
+
+## Jacket
+- Alpinestars Altamira GTX Jacket
+
+## Gloves
+- Alpinestars Boulder GTX Gloves
+- Alpinestars SP X-5 Air
+
+## Pants
+- Still figuring out
+
+## Footwear
+- _Alpinestars Tech 7 Enduro Drystar_ (Wishlist)
+
+# Travel Log
+
+A list of adventures I've had and the ones I'm dreaming about.
+
+### Dream Destinations
+
+* [ ] The Alps 🇳🇱🇩🇪🇫🇷🇨🇭🇮🇹 - A remote-work trip through the mountains.
+* [ ] Japan 🇯🇵 - A month-long tour from cities to countryside.
+* [ ] Mexico 🇲🇽 - A van-life adventure to explore the culture and landscapes.
+* [ ] Iceland 🇮🇸 - An enduro camping trip starting with a ferry from Hirtshals, Denmark to Seyðisfjörður, Iceland
+* [ ] The British Isles 🇬🇧🇮🇪 - A tour through England, Scotland, and Ireland.
+
+
+### Past Adventures
+
+* [x] Southern coast of Iran 🇮🇷
+* [x] Konya, Cappadocia & Kemer in Turkey 🇹🇷
+* [x] Antwerp, Belgium 🇧🇪
