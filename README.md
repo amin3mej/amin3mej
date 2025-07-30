@@ -32,7 +32,7 @@ I enjoy staying active (gym, swimming, adventure motorcycling), getting creative
 ## Footwear
 - Alpinestars Tech 7 Enduro Drystar
 
-# Accessories
+## Accessories
 - _Alpinestars Rover Overland Backpack_ (Wishlist)
 
 # Travel Log
