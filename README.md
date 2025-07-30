@@ -19,18 +19,21 @@ I enjoy staying active (gym, swimming, adventure motorcycling), getting creative
   - CNS-3 Mirror Visor - Fire Orange
   - Cardo Packtalk Pro (with Cardo Adapter for SHOEI Gen 3 Helmets)
 
-## Jacket
-- Alpinestars Altamira GTX Jacket
-
 ## Gloves
 - Alpinestars Boulder GTX Gloves
 - Alpinestars SP X-5 Air
+
+## Jacket
+- Alpinestars Altamira GTX Jacket
 
 ## Pants
 - Still figuring out
 
 ## Footwear
-- _Alpinestars Tech 7 Enduro Drystar_ (Wishlist)
+- Alpinestars Tech 7 Enduro Drystar
+
+# Accessories
+- _Alpinestars Rover Overland Backpack_ (Wishlist)
 
 # Travel Log
 
